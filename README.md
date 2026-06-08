@@ -83,6 +83,7 @@ println!("Token count: {}", tokens.len());
 ## Services
 
 * [dust](https://github.com/dust-tt/dust) - a full service for workflow running with composable blocks. Core is in Rust, various frontends in Typescript.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring service for Solana AI agent wallets. Verify identity before x402 micropayments. Streamable-HTTP MCP endpoint available.
 
 
 ## Vector Stores
